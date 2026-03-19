@@ -1,0 +1,2 @@
+data_path: "data/raw/sample.csv"
+model_output: "models/model.pkl"
