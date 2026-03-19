@@ -3,7 +3,7 @@
 Real-world data is continuous, high-dimensional, and inherently noisy — whether captured from cameras or other sensor modalities.  
 OmnixLabs transforms this complexity into actionable intelligence through advanced AI and data analytics.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 3xvQvyQETnQi8JFLHSQ98Aio2HDGT1kPWvBUBWmxv5b9
 ---
 
 ## 🚀 Overview
